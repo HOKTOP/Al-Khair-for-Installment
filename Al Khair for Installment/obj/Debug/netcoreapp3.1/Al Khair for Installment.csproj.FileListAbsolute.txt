@@ -1,0 +1,65 @@
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\Al Khair for Installment.exe
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\Al Khair for Installment.deps.json
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\Al Khair for Installment.runtimeconfig.json
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\Al Khair for Installment.runtimeconfig.dev.json
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\Al Khair for Installment.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\Al Khair for Installment.pdb
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.csproj.AssemblyReference.cache
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al_Khair_for_Installment.Form1.resources
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al_Khair_for_Installment.Login.resources
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.csproj.GenerateResource.cache
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.AssemblyInfoInputs.cache
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.AssemblyInfo.cs
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.csproj.CoreCompileInputs.cache
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.pdb
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.genruntimeconfig.cache
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al_Khair_for_Installment.Properties.Resources.resources
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al Khair for Installment.csproj.CopyComplete
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al_Khair_for_Installment.Reguser.resources
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al_Khair_for_Installment.addProduct.resources
+C:\Users\hok\source\repos\Al Khair for Installment\Al Khair for Installment\obj\Debug\netcoreapp3.1\Al_Khair_for_Installment.Installment.resources
